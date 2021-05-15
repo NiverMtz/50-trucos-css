@@ -25,7 +25,6 @@ uso: muestra una manecilla que se transforma
     transform: rotate(45deg);
     
     
-    
-    
+    /*Definimos el origen para la rotación*/
     transform-origin: center bottom;
 }
