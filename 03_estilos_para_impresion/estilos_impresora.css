@@ -1,13 +1,13 @@
-body{
+body {
     font-family: monospace;
     font-size: 14px;
     line-height: 12px;
 }
 
-p{
-    border-bottom: dashed 1px #000000; 
+p {
+    border-bottom: dashed 1px #000000;
 }
 
-img{
+img {
     display: none;
 }
