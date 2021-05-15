@@ -11,7 +11,7 @@ body{
     margin:20px auto ;
     background-image:url('imagenes/imagen.png');
     
-    background-size: contain;
+    background-size: contain; /*la imagen se ajusta a las dimensiones del contenedor*/
 }
 
 .contenedor2{
@@ -38,7 +38,7 @@ body{
     background-image:url('imagenes/imagen.png');
     
     background-size: cover;
-    background-position: center 30%;
+    background-position: center 30%; /*El foco de la imagen es la punta de la motaña*/
     
   
 }
